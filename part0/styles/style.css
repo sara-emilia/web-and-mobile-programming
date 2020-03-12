@@ -1,0 +1,82 @@
+body {
+    width: 840px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    line-height: 1.2;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+caption {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    letter-spacing: 1.2px;
+}
+
+th {
+    background-color: darkgoldenrod;
+    font-size: 1.1em;
+}
+
+th, td {
+    font-weight: 150;
+    text-align: left;
+    padding: 15px;
+    border-bottom: 0.5px solid #ddd;
+}
+
+.index-1 {
+    font-size: 1.1em;
+    text-align: left;
+}
+
+form {
+    padding-bottom: 40px;
+}
+
+#index-3 {
+    list-style-type: circle;
+    line-height: 1.5;
+    font-style: oblique;
+}
+
+a:hover {
+    background-color: darkgoldenrod
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+.index-2 {
+    font-weight: 150;
+}
+
+input[type=text] {
+    font-style: oblique;
+    font-weight: 150;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
